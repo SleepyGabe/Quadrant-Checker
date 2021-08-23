@@ -1,0 +1,10 @@
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_Quadrants\bin\Debug\OTFI1B_Parinas_Quadrants.exe.config
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_Quadrants\bin\Debug\OTFI1B_Parinas_Quadrants.exe
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_Quadrants\bin\Debug\OTFI1B_Parinas_Quadrants.pdb
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_Quadrants\obj\Debug\OTFI1B_Parinas_Quadrants.csprojAssemblyReference.cache
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_Quadrants\obj\Debug\OTFI1B_Parinas_Quadrants.Form1.resources
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_Quadrants\obj\Debug\OTFI1B_Parinas_Quadrants.Properties.Resources.resources
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_Quadrants\obj\Debug\OTFI1B_Parinas_Quadrants.csproj.GenerateResource.cache
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_Quadrants\obj\Debug\OTFI1B_Parinas_Quadrants.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_Quadrants\obj\Debug\OTFI1B_Parinas_Quadrants.exe
+C:\Users\gabriel\Desktop\OTFI1B_Parinas_Quadrants\obj\Debug\OTFI1B_Parinas_Quadrants.pdb
